@@ -1,0 +1,5 @@
+This is a simple enough program, it ceated a sum. 
+Then enters into a for loop from 1 - 1000.
+if the number is divisible ('%') by either 3 or 5 then that number is added to the sum
+if it is not divisible then nothing happens and we move onto the next number.
+When the loop reaches 1000 it stops and the sum is printed.
